@@ -42,7 +42,7 @@ function generateFileJson(directory) {
     return {
       name: relativePath.replace(/\\/g, '/'), // Usando o caminho relativo com barras normais
       checksum: checksum,
-      url: `https://raw.githubusercontent.com/bhrama-br/UpdateMuOnline/main/${relativePath.replace(/\\/g, '/')}`
+      url: `https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/${relativePath.replace(/\\/g, '/')}`
     };
   });
   

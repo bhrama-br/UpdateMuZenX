@@ -1,5 +1,189 @@
 {
   "files": [
-    
+    {
+      "name": ".git/COMMIT_EDITMSG",
+      "checksum": "d9cd8155764c3543f10fad8a480d743137466f8d55213c8eaefcd12f06d43a80",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/COMMIT_EDITMSG"
+    },
+    {
+      "name": ".git/config",
+      "checksum": "ae38014428210e9cce89783f597bab0036f4d5c715a1aa95ccbf99f22ae765bf",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/config"
+    },
+    {
+      "name": ".git/description",
+      "checksum": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/description"
+    },
+    {
+      "name": ".git/FETCH_HEAD",
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/FETCH_HEAD"
+    },
+    {
+      "name": ".git/HEAD",
+      "checksum": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/HEAD"
+    },
+    {
+      "name": ".git/hooks/applypatch-msg.sample",
+      "checksum": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/applypatch-msg.sample"
+    },
+    {
+      "name": ".git/hooks/commit-msg.sample",
+      "checksum": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/commit-msg.sample"
+    },
+    {
+      "name": ".git/hooks/fsmonitor-watchman.sample",
+      "checksum": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/fsmonitor-watchman.sample"
+    },
+    {
+      "name": ".git/hooks/post-update.sample",
+      "checksum": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/post-update.sample"
+    },
+    {
+      "name": ".git/hooks/pre-applypatch.sample",
+      "checksum": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-applypatch.sample"
+    },
+    {
+      "name": ".git/hooks/pre-commit.sample",
+      "checksum": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-commit.sample"
+    },
+    {
+      "name": ".git/hooks/pre-merge-commit.sample",
+      "checksum": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-merge-commit.sample"
+    },
+    {
+      "name": ".git/hooks/pre-push.sample",
+      "checksum": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-push.sample"
+    },
+    {
+      "name": ".git/hooks/pre-rebase.sample",
+      "checksum": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-rebase.sample"
+    },
+    {
+      "name": ".git/hooks/pre-receive.sample",
+      "checksum": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/pre-receive.sample"
+    },
+    {
+      "name": ".git/hooks/prepare-commit-msg.sample",
+      "checksum": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/prepare-commit-msg.sample"
+    },
+    {
+      "name": ".git/hooks/push-to-checkout.sample",
+      "checksum": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/push-to-checkout.sample"
+    },
+    {
+      "name": ".git/hooks/sendemail-validate.sample",
+      "checksum": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/sendemail-validate.sample"
+    },
+    {
+      "name": ".git/hooks/update.sample",
+      "checksum": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/hooks/update.sample"
+    },
+    {
+      "name": ".git/index",
+      "checksum": "bdc88b69013a2a9667ff3a45f05bfcd19bcc8c90940276e8a7be282b0ce0ecf5",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/index"
+    },
+    {
+      "name": ".git/info/exclude",
+      "checksum": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/info/exclude"
+    },
+    {
+      "name": ".git/logs/HEAD",
+      "checksum": "11fdb890281d604f513d69bbeab0390fdfee28fe33c6ebb11ae5298bc978406b",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/logs/HEAD"
+    },
+    {
+      "name": ".git/logs/refs/heads/main",
+      "checksum": "11fdb890281d604f513d69bbeab0390fdfee28fe33c6ebb11ae5298bc978406b",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/logs/refs/heads/main"
+    },
+    {
+      "name": ".git/logs/refs/remotes/origin/main",
+      "checksum": "2dfecb5a390f7215f0557e1cec9772b2a637e9eb4e42ea77cdcaabc58e0772d3",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/logs/refs/remotes/origin/main"
+    },
+    {
+      "name": ".git/objects/31/6b5ba6c490dd758a9140387244b6978c0f3786",
+      "checksum": "11c7a1c31dc48b1d2c5afc3d8584892fe9dd9fb2d80a2852baa245c7d790eab6",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/31/6b5ba6c490dd758a9140387244b6978c0f3786"
+    },
+    {
+      "name": ".git/objects/6f/3b311f691bc401c4b8c53e754cdf55aa06a9d3",
+      "checksum": "64cae6af6651ca78826f6f901e0b9920801d982d02e79b5abd31658bc1c3e1c4",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/6f/3b311f691bc401c4b8c53e754cdf55aa06a9d3"
+    },
+    {
+      "name": ".git/objects/72/7d8cfaf8f37349e814473c7d6985eca0776aec",
+      "checksum": "65f1621cf118583d06edbe8df880898f3dcf2487cbf930ef41619cbc7f8e56d2",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/72/7d8cfaf8f37349e814473c7d6985eca0776aec"
+    },
+    {
+      "name": ".git/objects/bc/5e6c05377e58d9752a5ba2444dd800083523cc",
+      "checksum": "9675ff8115f82ffd2bb38f1f6637b8c70f574bf3ff73db0d682b312d21ce7411",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/bc/5e6c05377e58d9752a5ba2444dd800083523cc"
+    },
+    {
+      "name": ".git/objects/c3/b1aced15427ca4051f447e8e2e4fa0ac2c1f9e",
+      "checksum": "9edadeeb4ccd3d691897dd5c97aff785991e8d3fcff4d504f89f11e509ddb73e",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/c3/b1aced15427ca4051f447e8e2e4fa0ac2c1f9e"
+    },
+    {
+      "name": ".git/objects/cc/1286ac4f37411cadc320c20f4485f22659f454",
+      "checksum": "0412660341209b63536091c3457a0eecc42c92b5a915acceedc9f8ac3101a952",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/objects/cc/1286ac4f37411cadc320c20f4485f22659f454"
+    },
+    {
+      "name": ".git/refs/heads/main",
+      "checksum": "f8fc892cb69a914e5cdb8bdc77c05befcd6a4a4360e5c7afa74a5ef378185e0e",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/refs/heads/main"
+    },
+    {
+      "name": ".git/refs/remotes/origin/main",
+      "checksum": "f8fc892cb69a914e5cdb8bdc77c05befcd6a4a4360e5c7afa74a5ef378185e0e",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/.git/refs/remotes/origin/main"
+    },
+    {
+      "name": "createUpdate.js",
+      "checksum": "fad25b6c2c441ff08d78d507642d3b2840c470fa28c1fdd4a8317293fe4586ab",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/createUpdate.js"
+    },
+    {
+      "name": "fileDetails.json",
+      "checksum": "6abafe016b75044159da9f486545ed259fe1edefdf69bebbb462ffda6d3eb86b",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/fileDetails.json"
+    },
+    {
+      "name": "main.premium",
+      "checksum": "06ac710249cd76bb54d53b7f93bfd3d37229dc21d658df1039ae39f5da74f70b",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/main.premium"
+    },
+    {
+      "name": "package.json",
+      "checksum": "4942d1de1709b6fd4f57c1169365cca6f1d117e670f8c8b7e5cb23b6f2eb4d6e",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/package.json"
+    },
+    {
+      "name": "version.json",
+      "checksum": "e49ec6caa41b47ec115d91bc7593cd2b0e4c9e9b80c85b4e38cea40911341d1e",
+      "url": "https://raw.githubusercontent.com/bhrama-br/UpdateMuZenX/main/version.json"
+    }
   ]
 }
