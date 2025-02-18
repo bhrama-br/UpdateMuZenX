@@ -28,7 +28,6 @@
 36@2@162@Skeleton Transformation Ring@170@5@Transform into Stkeleton    #Attack power +40    #Wizardry increase +40    #Curse Spell +40    #Wear it with Pet Skeleton and get 30% Exp@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1620|@6778@2@3@1620|1621|1622|@0@508@669
 36@3@164@Magic Backpack@170@10@Add Slot extra@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1640|@7330@2@1@1640|@0@508@669
 36@4@165@Master Skill Reset@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1650|@7282@2@1@1650|@0@508@669
-36@5@123@Ring OF RR@170@10@Item to Reset in Place - 2 hours@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@6924@2@1@1230|@0@508@669
 41@1@101@Pet Panda@170@50@Exp 50% increase         #Collects Zen around         #Increase defensive skill +50@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1010|@6736@3@3@1010|1011|1012|@0@509@669
 41@2@102@Pet Skeleton@170@40@Surrounding Zens are automatically collected.      #Attack power/ Wizardy / Curse spell 20% increase      #- Attack speed increase +10      #. Exp 30% icrease@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1020|@6779@3@3@1020|1021|1022|@0@509@669
 41@3@105@Pet Unicorn@170@40@Collects zen automatically.     #Zen increase +50%     #Defensibility +50@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1050|@6762@3@3@1050|1051|1052|@0@509@669
@@ -48,7 +47,6 @@
 61@3@149@Claw of Beast@170@50@Craft Fenrir@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1490|@6690@5@1@1490|@1@0@669
 62@1@150@Master Skill Reset@170@50@Reset Master Tree@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@7282@5@1@1500|@1@0@669
 62@2@136@Magic Backpack@170@300@Add Slot extra@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1360|@7330@5@1@1360|@1@0@669
-62@4@124@Ring OF RR@170@100@Item to Reset in Place - 2 hours@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1240|@6924@5@1@1240|@1@0@669
 63@1@133@Talisman of Chaos Assembly@170@100@From +10 to +15 does not allow items to disappear.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1330|@7264@5@1@1330|@1@0@669
 63@5@132@Talisman of Luck@170@30@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@7221@5@1@1320|@1@0@669
 64@1@130@GM Gift@170@1000@Jewel of Level    #Jewel of Luck    #Jewel of Option    #Jewel of Skill    #Jewel of Excellent    #Jewel of Socket    #Jewel of Ancient    #Jewel of Full@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1300|@7220@5@1@1300|@1@0@669
@@ -60,16 +58,16 @@
 65@6@169@Cloak of Overrule Talisman@170@500@Greater chance of flying out Overrule @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1690|@6810@5@1@1690|@1@0@669
 65@7@170@Condor Flame@170@60@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1700|@6708@5@1@1700|@1@0@669
 65@8@171@Condor Feather@170@60@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1710|@6709@5@1@1710|@1@0@669
-66@1@131@Village M Helm@170@400@FULL +0  #  #Armor: 83  #Strength: 794  #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@3815@5@1@1310|@1@0@669
-66@2@134@Village M Armor@170@400@FULL +0  #  #Armor: 111  #Strength: 926  #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1340|@4327@5@1@1340|@1@0@669
-66@3@135@Village M Pants@170@400@FULL +0  #  #Armor: 97  #Strength: 848  #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1350|@4839@5@1@1350|@1@0@669
-66@4@172@Village M Gloves@170@400@FULL +0  #  #Armor: 76  #Attack Speed: 6  #Strength: 734  #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1720|@5351@5@1@1720|@1@0@669
-66@5@173@Village M Boots@170@400@FULL +0  #  #Armor: 79  #Strength: 758  #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1730|@5863@5@1@1730|@1@0@669
-67@1@174@Village F Helm@170@400@FULL +0   #   #Armor: 83   #Strength: 794   #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1740|@3816@5@1@1740|@1@0@669
-67@2@175@Village F Armor@170@400@FULL +0   #   #Armor: 111   #Strength: 926   #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1750|@4328@5@1@1750|@1@0@669
-67@3@176@Village F Pants@170@400@FULL +0   #   #Armor: 97   #Strength: 848   #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1760|@4840@5@1@1760|@1@0@669
-67@4@177@Village F Gloves@170@400@FULL +0   #   #Armor: 76   #Attack Speed: 6   #Strength: 734   #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1770|@5352@5@1@1770|@1@0@669
-67@5@178@Village F Boots@170@400@FULL +0   #   #Armor: 79   #Strength: 758   #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1780|@5864@5@1@1780|@1@0@669
+66@1@131@Village M Helm@170@400@ Dd hp reflect +0    #    #Armor: 83    #Strength: 794    #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@3815@5@1@1310|@1@0@669
+66@2@134@Village M Armor@170@400@ Dd hp reflect +0   #   #Armor: 111   #Strength: 926   #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1340|@4327@5@1@1340|@1@0@669
+66@3@135@Village M Pants@170@400@ Dd hp reflect +0   #   #Armor: 97   #Strength: 848   #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1350|@4839@5@1@1350|@1@0@669
+66@4@172@Village M Gloves@170@400@ Dd hp reflect +0   #   #Armor: 76   #Attack Speed: 6   #Strength: 734   #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1720|@5351@5@1@1720|@1@0@669
+66@5@173@Village M Boots@170@400@ Dd hp reflect +0   #   #Armor: 79   #Strength: 758   #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1730|@5863@5@1@1730|@1@0@669
+67@1@174@Village F Helm@170@400@ Dd hp reflect +0    #    #Armor: 83    #Strength: 794    #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1740|@3816@5@1@1740|@1@0@669
+67@2@175@Village F Armor@170@400@ Dd hp reflect +0    #    #Armor: 111    #Strength: 926    #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1750|@4328@5@1@1750|@1@0@669
+67@3@176@Village F Pants@170@400@ Dd hp reflect +0    #    #Armor: 97    #Strength: 848    #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1760|@4840@5@1@1760|@1@0@669
+67@4@177@Village F Gloves@170@400@ Dd hp reflect +0    #    #Armor: 76    #Attack Speed: 6    #Strength: 734    #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1770|@5352@5@1@1770|@1@0@669
+67@5@178@Village F Boots@170@400@ Dd hp reflect +0    #    #Armor: 79    #Strength: 758    #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1780|@5864@5@1@1780|@1@0@669
 68@1@179@Village Staff@170@1000@Full +0   #   #SM   #MG   #SUM@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1790|@2627@5@1@1790|@1@0@669
 68@2@180@Book of Village@170@1000@Full +0   #   #SUM@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1800|@2628@5@1@1800|@1@0@669
 68@3@181@Village Bow@170@1000@Full +0  #  #ELF@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1810|@2106@5@1@1810|@1@0@669
