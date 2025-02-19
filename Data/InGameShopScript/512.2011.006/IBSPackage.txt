@@ -1,11 +1,8 @@
-31@1@118@Seal of Mobility@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6715@2@3@1180|1181|1182|@0@508@669
-31@2@110@Seal of Ascension@170@7@Increases experience gained from killing monsters.     #Not Applicable to Master Level Characters.     #You may use it with Seal of Healing or Seal of Divinity     #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6699@2@3@1100|1101|1102|@0@508@669
-31@3@113@Seal of Wealth@170@10@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6700@2@3@1130|1131|1132|@0@508@669
-31@4@117@Seal of Divinity@170@10@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6719@2@3@1170|1171|1172|@0@508@669
+31@1@118@Seal of Mobility@170@2@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6715@2@3@1180|1181|1182|@0@508@669
+31@2@110@Seal of Ascension@170@3@Increases experience gained from killing monsters.      #Not Applicable to Master Level Characters.      #You may use it with Seal of Healing or Seal of Divinity      #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6699@2@3@1100|1101|1102|@0@508@669
+31@3@113@Seal of Wealth@170@5@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6700@2@3@1130|1131|1132|@0@508@669
+31@4@117@Seal of Divinity@170@5@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6719@2@3@1170|1171|1172|@0@508@669
 31@5@114@Seal of Healing@170@10@Exp gain increase      #Auto life increase at 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6718@2@3@1140|1141|1142|@0@508@669
-32@1@120@Jewel of Luck@170@10@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@7439@2@1@1200|@0@508@669
-32@2@121@Jewel of Skill@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@7441@2@1@1210|@0@508@669
-32@3@122@Jewel of Excellent@170@10@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@7442@2@1@1220|@0@508@669
 33@1@127@Scroll of Quickness@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@7240@2@3@1270|1271|1272|@0@508@669
 33@2@137@Scroll of Defense@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@7241@2@3@1370|1371|1372|@0@508@669
 33@3@138@Scroll of Wrath@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@7242@2@3@1380|1381|1382|@0@508@669
@@ -15,14 +12,10 @@
 33@7@142@Scroll of Battle@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1420|@7265@2@3@1420|1421|1422|@0@508@669
 33@8@143@Scroll of Strength@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1430|@7266@2@3@1430|1431|1432|@0@508@669
 33@9@144@Scroll of Healing@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1440|@7308@2@3@1440|1441|1442|@0@508@669
-34@1@155@Box of Kundun +2@170@2@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1550|@7179@2@1@1550|@0@508@669
-34@2@154@Box of Kundun +3@170@3@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1540|@7179@2@1@1540|@0@508@669
-34@3@153@Box of Kundun +4@170@4@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1530|@7179@2@1@1530|@0@508@669
-34@4@152@Box of Kundun +5@170@5@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@7179@2@1@1520|@0@508@669
-35@1@100@Pet Panda@170@5@Exp 50% increase      #Collects Zen around      #Increase defensive skill +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6736@2@3@1000|1001|1002|@0@508@669
-35@2@103@Pet Skeleton@170@5@Surrounding Zens are automatically collected.  #Attack power/ Wizardy / Curse spell 20% increase  #- Attack speed increase +10  #. Exp 30% icrease@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@6779@2@3@1030|1031|1032|@0@508@669
-35@3@104@Pet Unicorn@170@5@Collects zen automatically.  #Zen increase +50%  #Defensibility +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@6762@2@3@1040|1041|1042|@0@508@669
-35@4@107@Demon@170@5@Increases Attack power and Wizard 40%   #Increases Attack Speed 10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@6720@2@3@1070|1071|1072|@0@508@669
+35@1@100@Pet Panda@170@5@Exp 50% increase       #Collects Zen around       #Increase defensive skill +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6736@2@3@1000|1001|1002|@0@508@669
+35@2@103@Pet Skeleton@170@5@Surrounding Zens are automatically collected.   #Attack power/ Wizardy / Curse spell 20% increase   #- Attack speed increase +10   #. Exp 30% icrease@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@6779@2@3@1030|1031|1032|@0@508@669
+35@3@104@Pet Unicorn@170@5@Collects zen automatically.   #Zen increase +50%   #Defensibility +50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@6762@2@3@1040|1041|1042|@0@508@669
+35@4@107@Demon@170@5@Increases Attack power and Wizard 40%    #Increases Attack Speed 10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@6720@2@3@1070|1071|1072|@0@508@669
 35@5@108@Spirit of Guardian@170@5@Absorbs damage 30%  #Increases Max life 50@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6721@2@2@1080|1081|@0@508@669
 36@1@161@Panda Ring@170@5@Transform into Panda    #Zen increase 50%    #Damage /Wizardry /CUrse +30@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1610|@6732@2@3@1610|1611|1612|@0@508@669
 36@2@162@Skeleton Transformation Ring@170@5@Transform into Stkeleton    #Attack power +40    #Wizardry increase +40    #Curse Spell +40    #Wear it with Pet Skeleton and get 30% Exp@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1620|@6778@2@3@1620|1621|1622|@0@508@669
@@ -33,48 +26,19 @@
 41@3@105@Pet Unicorn@170@40@Collects zen automatically.     #Zen increase +50%     #Defensibility +50@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1050|@6762@3@3@1050|1051|1052|@0@509@669
 41@4@106@Demon@170@80@Increases Attack power and Wizard 40%       #Increases Attack Speed 10@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1060|@6720@3@3@1060|1061|1062|@0@509@669
 41@5@109@Spirit of Guardian@170@40@Absorbs damage 30%     #Increases Max life 50@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1090|@6721@3@3@1090|1091|1092|@0@509@669
-42@1@119@Seal of Mobility@170@50@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1190|@6715@3@3@1190|1191|1192|@0@509@669
-42@2@111@Seal of Ascension@170@50@Increases experience gained from killing monsters.      #Not Applicable to Master Level Characters.      #You may use it with Seal of Healing or Seal of Divinity      #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1110|@6699@3@3@1110|1111|1112|@0@509@669
-42@3@112@Seal of Wealth@170@50@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1120|@6700@3@3@1120|1121|1122|@0@509@669
-42@4@115@Seal of Healing@170@50@Exp gain increase        #Auto life increase at 5%@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1150|@6718@3@3@1150|1151|1152|@0@509@669
-42@5@116@Seal of Divinity@170@50@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1160|@6719@3@3@1160|1161|1162|@0@509@669
-43@1@128@Silver Key@170@10@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1280|@7280@3@1@1280|@0@509@669
-43@2@129@Gold Key@170@15@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1290|@7281@3@1@1290|@0@509@669
+43@1@128@Silver Key@170@15@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1280|@7280@3@1@1280|@0@509@669
+43@2@129@Gold Key@170@20@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1290|@7281@3@1@1290|@0@509@669
 44@1@157@Silver Key@170@5@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1570|@7280@3@1@1570|@0@509@669
 44@2@158@Gold Key@170@10@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1580|@7281@3@1@1580|@0@509@669
-61@1@147@Splinter of Armor@170@50@Craft Fenrir@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1470|@6688@5@1@1470|@1@0@669
-61@2@148@Bless of Guardian@170@50@Craft Fenrir@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1480|@6689@5@1@1480|@1@0@669
-61@3@149@Claw of Beast@170@50@Craft Fenrir@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1490|@6690@5@1@1490|@1@0@669
+61@1@111@Box of Kundun +1@170@10@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1110|@7179@5@1@1110|@1@0@669
+61@2@112@Box of Kundun +2@170@15@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1120|@7179@5@1@1120|@1@0@669
+61@3@115@Box of Kundun +3@170@20@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1150|@7179@5@1@1150|@1@0@669
+61@4@116@Box of Kundun +4@170@25@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1160|@7179@5@1@1160|@1@0@669
+61@5@119@Box of Kundun +5@170@30@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1190|@7179@5@1@1190|@1@0@669
 62@1@150@Master Skill Reset@170@50@Reset Master Tree@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@7282@5@1@1500|@1@0@669
 62@2@136@Magic Backpack@170@300@Add Slot extra@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1360|@7330@5@1@1360|@1@0@669
-63@1@133@Talisman of Chaos Assembly@170@100@From +10 to +15 does not allow items to disappear.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1330|@7264@5@1@1330|@1@0@669
-63@5@132@Talisman of Luck@170@30@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@7221@5@1@1320|@1@0@669
-64@1@130@GM Gift@170@1000@Jewel of Level    #Jewel of Luck    #Jewel of Option    #Jewel of Skill    #Jewel of Excellent    #Jewel of Socket    #Jewel of Ancient    #Jewel of Full@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1300|@7220@5@1@1300|@1@0@669
-65@1@151@Wings of Storm Talisman@170@500@Greater chance of flying out Storm @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1510|@6805@5@1@1510|@1@0@669
-65@2@159@Wings of Eternal Talisman@170@500@Greater chance of flying out Eternal @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1590|@6806@5@1@1590|@1@0@669
-65@3@160@Wings of Illusion Talisman@170@500@Greater chance of flying out Illusion @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1600|@6807@5@1@1600|@1@0@669
-65@4@167@Wings of Ruin Talisman@170@500@Greater chance of flying out Ruin @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1670|@6808@5@1@1670|@1@0@669
-65@5@168@Wings of Dimension Talisman@170@500@Greater chance of flying out Dimension @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1680|@6809@5@1@1680|@1@0@669
-65@6@169@Cloak of Overrule Talisman@170@500@Greater chance of flying out Overrule @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1690|@6810@5@1@1690|@1@0@669
-65@7@170@Condor Flame@170@60@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1700|@6708@5@1@1700|@1@0@669
-65@8@171@Condor Feather@170@60@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1710|@6709@5@1@1710|@1@0@669
-66@1@131@Village M Helm@170@400@ Dd hp reflect +0    #    #Armor: 83    #Strength: 794    #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@3815@5@1@1310|@1@0@669
-66@2@134@Village M Armor@170@400@ Dd hp reflect +0   #   #Armor: 111   #Strength: 926   #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1340|@4327@5@1@1340|@1@0@669
-66@3@135@Village M Pants@170@400@ Dd hp reflect +0   #   #Armor: 97   #Strength: 848   #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1350|@4839@5@1@1350|@1@0@669
-66@4@172@Village M Gloves@170@400@ Dd hp reflect +0   #   #Armor: 76   #Attack Speed: 6   #Strength: 734   #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1720|@5351@5@1@1720|@1@0@669
-66@5@173@Village M Boots@170@400@ Dd hp reflect +0   #   #Armor: 79   #Strength: 758   #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1730|@5863@5@1@1730|@1@0@669
-67@1@174@Village F Helm@170@400@ Dd hp reflect +0    #    #Armor: 83    #Strength: 794    #Agility: 244@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1740|@3816@5@1@1740|@1@0@669
-67@2@175@Village F Armor@170@400@ Dd hp reflect +0    #    #Armor: 111    #Strength: 926    #Agility: 282@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1750|@4328@5@1@1750|@1@0@669
-67@3@176@Village F Pants@170@400@ Dd hp reflect +0    #    #Armor: 97    #Strength: 848    #Agility: 260@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1760|@4840@5@1@1760|@1@0@669
-67@4@177@Village F Gloves@170@400@ Dd hp reflect +0    #    #Armor: 76    #Attack Speed: 6    #Strength: 734    #Agility: 227@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1770|@5352@5@1@1770|@1@0@669
-67@5@178@Village F Boots@170@400@ Dd hp reflect +0    #    #Armor: 79    #Strength: 758    #Agility: 234@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1780|@5864@5@1@1780|@1@0@669
-68@1@179@Village Staff@170@1000@Full +0   #   #SM   #MG   #SUM@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1790|@2627@5@1@1790|@1@0@669
-68@2@180@Book of Village@170@1000@Full +0   #   #SUM@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1800|@2628@5@1@1800|@1@0@669
-68@3@181@Village Bow@170@1000@Full +0  #  #ELF@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1810|@2106@5@1@1810|@1@0@669
-68@4@182@Village Mace@170@1000@Full +0  #  #DL@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1820|@1068@5@1@1820|@1@0@669
-68@5@183@Village Blade@170@1000@Full +0  #  #BK  #MG@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1830|@85@5@1@1830|@1@0@669
-68@6@184@Village Gloves@170@1000@Full +0  #  #RF@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1840|@86@5@1@1840|@1@0@669
-68@7@185@Village Shield@170@1000@Full +0  #  #SM  #Bk  #MG  #DL  #ELF  #SUM@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1850|@3122@5@1@1850|@1@0@669
+65@1@170@Condor Flame@170@200@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1700|@6708@5@1@1700|@1@0@669
+65@2@171@Condor Feather@170@200@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1710|@6709@5@1@1710|@1@0@669
 69@1@186@Seal of Mobility@170@20@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1860|@6715@5@3@1860|1861|1862|@1@0@669
 69@2@187@Seal of Ascension@170@20@Increases experience gained from killing monsters.        #Not Applicable to Master Level Characters.        #You may use it with Seal of Healing or Seal of Divinity        #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1870|@6699@5@3@1870|1871|1872|@1@0@669
 69@3@188@Seal of Wealth@170@20@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1880|@6700@5@3@1880|1881|1882|@1@0@669
