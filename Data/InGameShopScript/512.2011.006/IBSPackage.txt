@@ -1,8 +1,6 @@
 31@1@118@Seal of Mobility@170@2@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6715@2@3@1180|1181|1182|@0@508@669
-31@2@110@Seal of Ascension@170@3@Increases experience gained from killing monsters.       #Not Applicable to Master Level Characters.       #You may use it with Seal of Healing or Seal of Divinity       #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6699@2@3@1100|1101|1102|@0@508@669
 31@3@113@Seal of Wealth@170@5@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6700@2@3@1130|1131|1132|@0@508@669
 31@4@117@Seal of Divinity@170@5@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6719@2@3@1170|1171|1172|@0@508@669
-31@5@114@Seal of Healing@170@10@Exp gain increase        #Auto life increase at 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6718@2@3@1140|1141|1142|@0@508@669
 32@1@120@Blood Castle Ticket@170@8@Usable 10 times@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6703@2@1@1200|@0@508@669
 32@2@121@Devil Square Ticket@170@8@Usable 10 times@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6702@2@1@1210|@0@508@669
 32@3@122@Armor of Guardsman@170@2@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@6685@2@1@1220|@0@508@669
@@ -43,10 +41,8 @@
 65@1@170@Condor Flame@170@200@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1700|@6708@5@1@1700|@1@0@669
 65@2@171@Condor Feather@170@200@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1710|@6709@5@1@1710|@1@0@669
 69@1@186@Seal of Mobility@170@20@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1860|@6715@5@3@1860|1861|1862|@1@0@669
-69@2@187@Seal of Ascension@170@20@Increases experience gained from killing monsters.           #Not Applicable to Master Level Characters.           #You may use it with Seal of Healing or Seal of Divinity           #You cannot use Seal of wealth at the same time@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1870|@6699@5@3@1870|1871|1872|@1@0@669
 69@3@188@Seal of Wealth@170@20@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1880|@6700@5@3@1880|1881|1882|@1@0@669
 69@4@189@Seal of Divinity@170@20@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@6719@5@3@1890|1891|1892|@1@0@669
-69@5@190@Seal of Healing@170@20@Exp gain increase           #Auto life increase at 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1900|@6718@5@3@1900|1901|1902|@1@0@669
 69@6@191@Scroll of Quickness@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1910|@7240@5@3@1910|1911|1912|@1@0@669
 69@7@192@Scroll of Defense@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1920|@7241@5@3@1920|1921|1922|@1@0@669
 69@8@193@Scroll of Wrath@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1930|@7242@5@3@1930|1931|1932|@1@0@669
