@@ -1,5 +1,5 @@
 31@1@118@Seal of Mobility@170@2@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6715@2@3@1180|1181|1182|@0@508@669
-31@3@110@Seal of Healing@170@5@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6718@2@3@1100|1101|1102|@0@508@669
+31@2@112@Seal of Wealth@170@5@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@6700@2@3@1120|1121|1122|@0@508@669
 31@4@117@Seal of Divinity@170@5@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6719@2@3@1170|1171|1172|@0@508@669
 32@1@120@Blood Castle Ticket@170@8@Usable 10 times@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@6703@2@1@1200|@0@508@669
 32@2@121@Devil Square Ticket@170@8@Usable 10 times@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6702@2@1@1210|@0@508@669
@@ -34,8 +34,8 @@
 62@1@150@Master Skill Reset@170@50@Reset Master Tree@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@7282@5@1@1500|@1@0@669
 62@2@136@Magic Backpack@170@300@Add Slot extra@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1360|@7330@5@1@1360|@1@0@669
 69@1@186@Seal of Mobility@170@20@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1860|@6715@5@3@1860|1861|1862|@1@0@669
-69@3@111@Seal of Healing@170@20@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1110|@6718@5@3@1110|1111|1112|@1@0@669
-69@4@189@Seal of Divinity@170@20@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@6719@5@3@1890|1891|1892|@1@0@669
+69@2@189@Seal of Divinity@170@20@Item drop increase + Auto mana increase 5%@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@6719@5@3@1890|1891|1892|@1@0@669
+69@3@110@Seal of Wealth@170@20@Increases experience gained and improves item drop rate.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1100|@6700@5@3@1100|1101|1102|@1@0@669
 69@6@191@Scroll of Quickness@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1910|@7240@5@3@1910|1911|1912|@1@0@669
 69@7@192@Scroll of Defense@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1920|@7241@5@3@1920|1921|1922|@1@0@669
 69@8@193@Scroll of Wrath@170@70@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1930|@7242@5@3@1930|1931|1932|@1@0@669
